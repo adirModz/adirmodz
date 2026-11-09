@@ -101,20 +101,20 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdirModz&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 
   <br><br>
 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff66&icon_color=00ff66" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00ff66" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AdirModz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00ff66&icon_color=00ff66" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdirModz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=00ff66" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdirModz&theme=tokyonight&hide_border=true&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&color=00ff66" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdirModz&theme=tokyonight&hide_border=true&color=00ff66" width="95%" />
 
 </div>
 
@@ -132,7 +132,7 @@
   <a href="https://picoctf.org" target="_blank">
     <img src="https://img.shields.io/badge/PicoCTF-Solved-blue?style=for-the-badge&logo=pico&logoColor=white" alt="PicoCTF" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/AdirModz" target="_blank">
     <img src="https://img.shields.io/badge/Source-Exploits_%26_Tools-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
   </a>
 </div>
