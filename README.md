@@ -1,17 +1,16 @@
 <div align="center">
 
-  <!-- Header Animado Tipo Terminal (100% Funcional y Fiable) -->
   <a href="https://github.com/adirModz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1100&color=00FF66&center=true&vCenter=true&width=680&height=60&lines=%24+whoami+--role+security-dev;%3E+building+bots+%26+offensive+tooling;%3E+python3+bot.py+--daemon;%3E+breaking+logic+flaws+%26+automating+everything" alt="Terminal Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1100&color=00FF66&center=true&vCenter=true&width=720&height=60&lines=%24+whoami+--role+dev-and-security;%3E+fivem+dev+%7C+custom+lua+scripts+%26+nui;%3E+database+design+%26+backend+optimization;%3E+building+bots+%26+automation+tooling" alt="Terminal Header" />
   </a>
 
   <br>
 
-  <!-- Status Pills -->
+
   <p align="center">
-    <img src="https://img.shields.io/badge/ARCH%20%2F%20KALI-000000?style=for-the-badge&logo=archlinux&logoColor=1793D1" />
-    <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
-    <img src="https://img.shields.io/badge/PENTESTING-000000?style=for-the-badge&logo=target&logoColor=red" />
+    <img src="https://img.shields.io/badge/FIVEM%20DEV-000000?style=for-the-badge&logo=fivem&logoColor=orange" />
+    <img src="https://img.shields.io/badge/LUA%20%7C%20PYTHON-000000?style=for-the-badge&logo=lua&logoColor=000080" />
+    <img src="https://img.shields.io/badge/DATABASES-SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
     <a href="https://discord.com/users/1188594053760163850" target="_blank">
       <img src="https://img.shields.io/badge/DISCORD-adirmodz-000000?style=for-the-badge&logo=discord&logoColor=5865F2" />
     </a>
@@ -30,9 +29,14 @@ adir@box:~$ cat about.json
 {
   "usuario": "adirModz",
   "discord_id": "1188594053760163850",
-  "intereses": ["Pentesting Web", "Bots de Discord", "Automatización", "Reversing básico"],
-  "filosofia": "Si una tarea se repite más de dos veces, se automatiza.",
-  "entorno": "Arch Linux / Kali • Zsh • Tmux • VS Code"
+  "skills_principales": [
+    "Desarrollo FiveM (Lua / NUI / oxmysql)",
+    "Bases de Datos Relacionales & Optimización",
+    "Bots de Discord & Automatizaciones",
+    "Pentesting Web & Seguridad en Sistemas"
+  ],
+  "filosofia": "Código limpio, cero fugas de memoria y todo automatizado.",
+  "entorno": "Linux (Arch / Kali / Debian) • Zsh • VS Code"
 }
 ```
 
@@ -44,22 +48,27 @@ adir@box:~$ cat about.json
 
 | Área | Stack & Herramientas |
 | :--- | :--- |
-| **⚔️ Seguridad & Auditoría** | `Kali Linux` `Burp Suite` `Nmap` `Wireshark` `Metasploit` `OWASP Top 10` |
-| **⚡ Scripting & Backend** | `Python 3` `AsyncIO` `Bash` `Node.js` `REST APIs` `WebSockets` |
-| **🤖 Bots & Automatización** | `Discord.py` `PM2` `Puppeteer / Scraping` `Task Scheduling` |
-| **🐧 Sistema & Despliegue** | `Linux (Arch / Debian)` `Docker` `Git` `Proxies` `Terminal Tools` |
+| **🎮 FiveM & Game Modding** | `Lua 5.4` `FiveM / CitizenFX API` `QBCore / ESX / Standalone` `oxmysql` `NUI (HTML/CSS/JS)` |
+| **🗄️ Bases de Datos** | `MySQL` `MariaDB` `SQLite` `Database Indexing & Queries` `ORM / Drivers` |
+| **⚡ Scripting & Backend** | `Python 3` `Lua` `Bash` `Node.js` `REST APIs` `WebSockets` |
+| **🤖 Bots & Automatización** | `Discord.py` `Discord JS` `PM2` `Integraciones FiveM ↔ Discord` |
+| **⚔️ Seguridad & Auditoría** | `Kali Linux` `Burp Suite` `Nmap` `Wireshark` `OWASP Top 10` `Seguridad de Servidores` |
+| **🐧 Sistema & Despliegue** | `Linux (Arch / Debian / Ubuntu Server)` `Docker` `Git` `Nginx` `PM2` |
 
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" />
@@ -69,19 +78,19 @@ adir@box:~$ cat about.json
 
 ### 🚀 Qué estoy construyendo
 
-- 🤖 **Bots avanzados para Discord:** Automatización con slash commands, interfaces de botones (`discord.ui`), modales interactivos y persistencia en segundo plano con PM2.
-- 🔍 **Auditoría & CTFs:** Práctica continua en laboratorios de explotación web, bypass de lógica y análisis de tráfico de red.
-- ⚙️ **Scripts & CLI:** Herramientas de terminal en Python y Bash para despliegues, monitoreo de procesos y scraping.
+- 🎮 **Recursos & Scripts para FiveM:** Sistemas optimizados en Lua (0.00ms resmon), interfaces NUI fluidas, sincronización robusta con `oxmysql` y sistemas de logs/whitelist enlazados con bots de Discord.
+- 🗄️ **Bases de Datos & Rendimiento:** Estructuración de esquemas SQL limpios, consultas optimizadas y prevención de inyecciones / cuellos de botella.
+- 🤖 **Bots para Discord:** Automatizaciones complejas, generadores interactivos, sincronización con bases de datos y persistencia 24/7 con PM2.
+- 🔍 **Auditoría & Seguridad:** Pruebas de seguridad web, análisis de vulnerabilidades y hardening de servidores Linux.
 
 ---
 
 ### 📊 Dev & Security Overview
 
 ```yaml
-Current Status : Active & Coding
-Primary Focus  : Python Tools • Web Security • Bot Infrastructure
-Architecture   : Linux daemons running 24/7 on PM2
-Git Workflow   : Feature-branching, headless servers, automated task flows
+Current Focus  : FiveM Scripting (Lua) • Discord Bots • Backend & SQL
+Optimization   : Low-resmon code, secure SQL queries, zero memory leaks
+Infrastructure : Linux servers managed with PM2 & Docker
 ```
 
 ---
